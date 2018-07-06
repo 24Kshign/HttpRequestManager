@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HttpRequestManager</string>
+
+    <string name="kamao_online_address">https://kamao.mifengkong.cn/</string>
+    <string name="kamao_release_address">http://release.kamao.mifengkong.cn/</string>
+    <string name="kamao_offline_address">http://demo.kamao.mifengkong.cn/</string>
+
+    <string name="sudai_online_address">https://qianba.mifengkong.cn/</string>
+    <string name="sudai_release_address">http://release.jieba.mifengkong.cn/</string>
+    <string name="sudai_offline_address">http://demo.jieba.mifengkong.cn/</string>
+
+</resources>
